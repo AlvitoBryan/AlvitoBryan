@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AlvitoBryan&theme=gotham&hide_border=false" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvitoBryan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="337">
+  <div>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=AlvitoBryan&theme=gotham&hide_border=false" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvitoBryan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="337">
+  </div>
+  <div>
+    <img height="300" src="https://i.giphy.com/tHIRLHtNwxpjIFqPdV.webp"/>
+  </div>
 </div>
 
 ###
-<div align="center">
-  <img align="center" height="300" src="https://i.giphy.com/tHIRLHtNwxpjIFqPdV.webp"  />
-</div>
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
