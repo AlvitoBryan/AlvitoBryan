@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 <div align="center">
-  <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="center" height="300" src="https://i.giphy.com/tHIRLHtNwxpjIFqPdV.webp"  />
 </div>
 
 ###
