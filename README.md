@@ -22,20 +22,15 @@ Here are some ideas to get you started:
 <div align="center">
   <div>
     <img src="https://nirzak-streak-stats.vercel.app/?user=AlvitoBryan&theme=gotham&hide_border=false" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvitoBryan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="337">
-  </div>
-  <div>
-    <img height="300" src="https://i.giphy.com/tHIRLHtNwxpjIFqPdV.webp"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvitoBryan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="337"><br>
   </div>
 </div>
 
 ###
-
-###
+<div align="center">
+  <img height="300" src="https://i.giphy.com/tHIRLHtNwxpjIFqPdV.webp"/>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br clear="both">
-
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvitoBryan/AlvitoBryan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvitoBryan/AlvitoBryan/output/github-snake.svg" />
