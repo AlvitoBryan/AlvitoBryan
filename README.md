@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ###
 <div align="center">
-  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl5dmx2Nm9xdG9rZ24xYjc2MHJ6dWs4MWNuZjU0ZmRqd2ozOWo4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txRRNMCLbSiFG/giphy.gif"/>
+  <img height="300" src="https://i.giphy.com/ZVik7pBtu9dNS.webp"/>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--<picture>
