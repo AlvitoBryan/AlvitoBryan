@@ -48,7 +48,7 @@ I'm a student of Informatics Engineering at Universitas Negeri Surabaya with a k
 
 ###
 <div align="center">
-  <img height="300" src="https://i.giphy.com/ZVik7pBtu9dNS.webp"/>
+  <img height="300" src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp"/>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--<picture>
